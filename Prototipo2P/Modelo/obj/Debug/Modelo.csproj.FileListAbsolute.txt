@@ -1,0 +1,6 @@
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Modelo\bin\Debug\Modelo.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Modelo\obj\Debug\Modelo.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache

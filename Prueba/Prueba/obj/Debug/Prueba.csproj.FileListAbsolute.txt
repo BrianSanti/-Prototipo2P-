@@ -1,0 +1,17 @@
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Vista.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Controlador.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Modelo.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Vista.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Controlador.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\bin\Debug\Modelo.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prueba\Prueba\obj\Debug\Prueba.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\bin\Debug\Controlador.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\obj\Debug\Controlador.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\bin\Debug\Modelo.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Controlador\obj\Debug\Controlador.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\bin\Debug\Vista.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\bin\Debug\Vista.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.Compras.resources
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.Compras2.resources
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.Ventas.resources
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.Ventas2.resources
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\bin\Debug\Controlador.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\bin\Debug\Controlador.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\bin\Debug\Modelo.dll
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\bin\Debug\Modelo.pdb
+C:\Users\Brian\Desktop\-Prototipo2P-\Prototipo2P\Vista\obj\Debug\Vista.Menu.resources
